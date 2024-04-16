@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SurfLesson4</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="next_btn_text">Далее</string>
+    <string name="prev_btn_text">Назад</string>
+    <string name="cancel_btn_text">Отмена регистрации</string>
+    <string name="enter_name">Введите имя…</string>
+    <string name="enter_last_name">Введите фамилию…</string>
+    <string name="enter_age">Введите возраст…</string>
+</resources>
